@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=RHWwMrR8LUs&t=161s
+
 # All Things Microservices
 Monorepo for All Things Microservices YouTube Series
 
